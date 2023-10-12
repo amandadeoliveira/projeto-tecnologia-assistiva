@@ -26,4 +26,5 @@ Esta planilha contém os dados brutos das medições realizadas durante os teste
 
 Neste arquivo, você encontrará a análise detalhada dos dados coletados nos testes de distância em relação ao RSSI. A análise fornece insights e conclusões importantes derivados dos resultados dos testes.
 
+## Finalidade
 Este repositório tem como finalidade promover a transparência, a colaboração e o compartilhamento de informações essenciais para o avanço do projeto de Tecnologia Assistiva na UFC. Fique à vontade para explorar e contribuir com o desenvolvimento deste projeto.
