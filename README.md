@@ -2,6 +2,9 @@
 
 Este repositório foi criado como parte do projeto de Tecnologia Assistiva em andamento na Universidade Federal do Ceará (UFC). O objetivo principal deste repositório é compartilhar documentos e dados relacionados ao projeto, facilitando o acesso e a colaboração entre os membros da equipe e a comunidade acadêmica.
 
+## Finalidade
+Este repositório tem como finalidade promover a transparência, a colaboração e o compartilhamento de informações essenciais para o avanço do projeto de Tecnologia Assistiva na UFC. Fique à vontade para explorar e contribuir com o desenvolvimento deste projeto.
+
 ## Documento de Trabalhos Relacionados
 
 - [Documento de trabalhos relacionados ao projeto](https://www.overleaf.com/8988591931jhfvrqbchkph)
@@ -25,6 +28,3 @@ Esta planilha contém os dados brutos das medições realizadas durante os teste
 - [Análise de dados do teste de distância x RSSI](https://drive.google.com/file/d/1LTBB3fIaVUh2AvR9scmz-dTAWdu5rNAU/view?usp=sharing)
 
 Neste arquivo, você encontrará a análise detalhada dos dados coletados nos testes de distância em relação ao RSSI. A análise fornece insights e conclusões importantes derivados dos resultados dos testes.
-
-## Finalidade
-Este repositório tem como finalidade promover a transparência, a colaboração e o compartilhamento de informações essenciais para o avanço do projeto de Tecnologia Assistiva na UFC. Fique à vontade para explorar e contribuir com o desenvolvimento deste projeto.
